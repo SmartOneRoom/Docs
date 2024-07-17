@@ -11,4 +11,4 @@
 
 관련 자료 🔽 <br>
 [Segment Anything](https://segment-anything.com/) <br>
-[Segment Anyhing with ViT](https://keras.io/examples/vision/sam/)
+[Segment Anyhing with Transformer](https://keras.io/examples/vision/sam/)
