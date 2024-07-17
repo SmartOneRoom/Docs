@@ -6,8 +6,8 @@
 
 ## 프로젝트 관련 링크
 사용할 모델 🔽 <br>
-[FastSAM - ko](https://docs.ultralytics.com/ko/models/fast-sam/)
-[FastSAM - en](https://docs.ultralytics.com/models/fast-sam/#available-models-supported-tasks-and-operating-modes))
+[FastSAM - ko](https://docs.ultralytics.com/ko/models/fast-sam/) <br>
+[FastSAM - en](https://docs.ultralytics.com/models/fast-sam/#available-models-supported-tasks-and-operating-modes)
 
 관련 자료 🔽 <br>
 [Segment Anything](https://segment-anything.com/) <br>
